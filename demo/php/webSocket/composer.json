@@ -1,0 +1,20 @@
+{
+    "name": "zulien/web-socket",
+    "description": "websocket client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jabin zhou",
+            "email": "363905263@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "WebSocket\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
